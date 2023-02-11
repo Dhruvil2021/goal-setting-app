@@ -1,0 +1,319 @@
+.css-rah3834 {
+  margin-top: 30px !important;
+  margin-left: 280px !important;
+  width: 83% !important;
+  height: 65vh !important;
+  background-color: #ffffff !important;
+  border-radius: 20px !important;
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.sub-main {
+  /* width: 500px; */
+  border-radius: 20px !important;
+  /* border: 1px solid black; */
+  text-align: center !important;
+}
+
+.customized-dialog-title {
+  display: flex !important;
+  justify-content: center !important;
+  flex-direction: column !important;
+  align-content: center !important;
+}
+
+.css-1d3f8j8-MuiButtonBase-root-MuiButton-root {
+  background-color: rgb(138, 71, 249) !important;
+  color: #ffffff !important;
+  padding: 10px 20px !important;
+  border-radius: 20px !important;
+  margin-top: 1.5rem !important;
+}
+.css-1d3f8j8-MuiButtonBase-root-MuiButton-root:hover {
+  background-color: rgb(151, 94, 242) !important;
+}
+
+/* .MuiBox-root{
+    width: 89% !important;
+    
+} */
+
+#next {
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center !important;
+  align-items: center !important;
+  padding: 0px 20px !important;
+  gap: 10px !important;
+
+  position: absolute !important;
+  width: 528px !important;
+  height: 48px !important;
+  left: calc(50% - 528px / 2) !important;
+  bottom: 23px !important;
+
+  /* Main/Purple */
+
+  background: #9747ff !important;
+  border-radius: 12px !important;
+}
+
+.modal-head {
+  display: flex !important;
+  flex-direction: column !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+  /* width: 100% !important;
+    border-radius: 20px !important; */
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: flex-start !important;
+  padding: 40px 56px !important;
+  gap: 32px !important;
+  isolation: isolate !important;
+
+  position: absolute !important;
+  width: 640px !important;
+  height: 740px !important;
+  /* left: calc(50% - 640px/2);
+    top: calc(50% - 740px/2); */
+  /* Main/White */
+  background: #ffffff !important;
+  border-radius: 32px !important  ;
+}
+
+.sub-modal-head {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  padding: 0px !important;
+  gap: 12px !important;
+
+  width: 528px !important;
+  height: 36px !important;
+
+  /* Inside auto layout */
+}
+
+.progress {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: flex-start !important;
+  padding: 0px !important;
+  gap: 10px !important;
+
+  width: 528px !important;
+  height: 12px !important;
+
+  border-radius: 50px !important;
+
+  /* Inside auto layout */
+}
+
+#first-progress {
+  width: 124.5px !important;
+  height: 12px !important;
+  justify-content: center !important;
+
+  /* Main/Purple */
+
+  background: #9747ff !important;
+  border-radius: 50px !important;
+
+  /* Inside auto layout */
+}
+
+.progress-ele {
+  width: 124.5px !important;
+  height: 12px !important;
+
+  /* Main/Purple-Tertiary */
+
+  background: #f7f2fe !important;
+  border-radius: 50px !important;
+}
+
+.progress-text {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: flex-start !important;
+  justify-content: center !important;
+
+  padding: 0px !important;
+  gap: 12px !important;
+
+  width: 528px !important;
+  height: 12px !important;
+}
+
+.progress-text-ele {
+  width: 123px !important;
+  height: 12px !important;
+  justify-content: center !important;
+
+  font-family: "Inter" !important;
+  font-style: normal !important;
+  font-weight: 400 !important;
+  font-size: 12px !important;
+  line-height: 100% !important;
+  /* identical to box height, or 12px */
+
+  display: flex !important;
+  align-items: center !important;
+  text-align: center !important;
+  letter-spacing: -0.01em !important;
+
+  color: #000000 !important;
+}
+
+#first-progress-text {
+  width: 123px !important;
+  height: 12px !important;
+  justify-content: center !important;
+
+  font-family: "Inter" !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  font-size: 12px !important;
+  line-height: 100% !important;
+  /* identical to box height, or 12px */
+
+  display: flex !important;
+  align-items: center !important;
+  text-align: center !important;
+  letter-spacing: -0.01em !important;
+
+  /* Main/Purple */
+
+  color: #9747ff !important;
+}
+
+.modal-body {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: center !important;
+  padding: 0px !important;
+  gap: 20px !important;
+
+  width: 528px !important;
+  height: 617px !important;
+}
+
+.modal-body-title {
+  width: 528px !important;
+  height: 25px !important;
+
+  /* Desktop/Title/H5 • 600 • 18 */
+
+  font-family: "Inter" !important;
+  font-style: normal !important;
+  font-weight: 500 !important;
+  font-size: 18px !important;
+  line-height: 140% !important;
+  /* or 25px */
+
+  display: flex !important;
+  align-items: center !important;
+  text-align: center !important;
+  letter-spacing: -0.01em !important;
+
+  /* Main/Black */
+
+  color: #190d1a !important;
+}
+
+.css-xhok2r-MuiDialogContent-root {
+  margin: 0 !important;
+}
+
+.PrevNext {
+  /* Button Group */
+
+  /* Auto layout */
+
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center !important;
+  align-items: flex-start !important;
+  padding: 0px !important;
+  gap: 12px !important;
+
+  position: absolute !important;
+  width: 528px !important;
+  height: 48px !important;
+  left: calc(50% - 528px / 2) !important;
+  bottom: 40px !important;
+}
+
+#Previous {
+  /* Buttons */
+
+  box-sizing: border-box !important;
+
+  /* Auto layout */
+
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center !important;
+  align-items: center !important;
+  padding: 0px 20px !important;
+  gap: 10px !important;
+
+  width: 258px !important;
+  height: 48px !important;
+
+  /* Main/Purple */
+  color: #9747ff !important;
+  border: 1px solid #9747ff !important;
+  border-radius: 12px !important;
+  background-color: #ffffff !important;
+}
+
+#next2 {
+  /* Buttons */
+
+  /* Auto layout */
+
+  display: flex !important;
+  flex-direction: row !important;
+  justify-content: center !important;
+  align-items: center !important;
+  padding: 0px 20px !important;
+  gap: 10px !important;
+
+  width: 258px !important;
+  height: 48px !important;
+
+  /* Main/Purple */
+
+  background: #9747ff !important;
+  border-radius: 12px !important;
+}
+
+.goal-list {
+  /* Goal List */
+
+  /* Auto layout */
+
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: flex-start !important;
+  padding: 24px !important;
+  gap: 12px !important;
+
+  position: absolute !important;
+  width: 81% !important;
+  height: 188px !important;
+  left: 278px !important;
+  top: 266px !important;
+
+  /* Main/White */
+
+  background: #ffffff !important;
+  border-radius: 20px !important;
+}

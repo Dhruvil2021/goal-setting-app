@@ -1,0 +1,131 @@
+body{
+    background: linear-gradient(30deg, rgba(250,242,215,0.61) 18%, rgba(255,240,255,0.51) 39%);
+    height: 100vh !important;
+}
+
+.logo{
+    /* text-align: center !important; */
+    padding: 20px !important;
+    font-weight: bold !important;
+    margin-bottom: 30px !important;
+}
+
+.root{
+    position: relative !important;
+}
+
+.toolbar{
+    width: 84% !important;
+    margin-left: -100px !important;
+    margin-top: 10px !important;
+    /* border: 1px solid red !important; */
+    position: absolute !important;
+    left: 20% !important;
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+}
+
+.left-toolbar{
+    /* border: 1px solid red !important; */
+    display: flex !important;
+    align-items: center !important;
+    z-index: 99 !important;
+    /* margin-left: 100px !important; */
+}
+
+.right-toolbar{
+    /* border: 1px solid red !important; */
+    display: flex !important;
+    justify-content: flex-start !important;
+    align-items: center !important;
+}
+
+.MuiBox-root{
+    /* height: 65px !important;  */
+    /* width: 95% !important; */
+}
+
+.css-cveggr-MuiListItemIcon-root{
+    margin-right: -1.5rem !important;
+    margin-left: .5rem !important;
+
+}
+
+.css-49ifcl-MuiPaper-root-MuiAppBar-root{
+    background-color: transparent !important;
+}
+
+.css-12i7wg6-MuiPaper-root-MuiDrawer-paper{
+    color: rgb(177, 172, 172) !important;
+}
+
+.css-rah383 {
+    margin-top: 30px;
+    margin-left: 280px;
+    width: 83% !important;
+    height: 150px !important;
+    background-color: #ffffff !important;
+    border-radius: 20px;
+}
+
+.goal-box{
+    padding: 20px !important;
+}
+
+.css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root{
+    margin: 0.3rem 0 !important;
+}
+
+.css-cveggr-MuiListItemIcon-root{
+    color: rgb(177, 172, 172) !important;
+    
+}
+
+.css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root:hover     {
+    color: rgb(138, 71, 249) !important;
+}
+
+.css-1jmjcem{
+    background-color: transparent !important;
+    padding: 0 !important;
+}
+
+.toolbar-button{
+    background-color: rgb(138, 71, 249) !important;
+    color: #ffffff !important;
+    padding: 10px 20px !important;
+    border-radius: 15px !important;
+    margin-right: 5px !important;
+}
+
+.toolbar-button:hover{
+    background-color: rgb(151, 94, 242) !important;
+}
+
+.toolbar-button2{
+    padding: 10px !important;
+    margin-right: 10px !important;
+color: rgb(175, 137, 235) !important;
+background-color: #ffffff !important;
+border: 1px solid rgb(175, 137, 235) !important;
+border-radius: 50% !important;
+}
+
+.toolbar-button3{
+    padding: 15px 12px !important;
+color: rgb(175, 137, 235) !important;
+background-color: rgb(249, 246, 255) !important;
+border: 1px solid rgb(175, 137, 235) !important;
+border-radius: 50% !important;
+}
+
+.toolbar-button4{
+    padding: 15px 10px !important;
+    margin-right: 10px !important;
+color: rgb(175, 137, 235) !important;
+background-color: #ffffff !important;
+border: 1px solid rgb(175, 137, 235) !important;
+border-radius: 50px !important;
+}
